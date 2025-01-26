@@ -2,8 +2,6 @@
 
 👨‍🎓 I'm a Second Year student pursuing BTech in Electronics and Computer Science with a Minor in Robotics and Automation.
 
-🌱 I’m currently learning Web Development !
-
 Feel free to connect with me on LinkedIn!
 ✨✨✨
 
