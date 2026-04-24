@@ -70,7 +70,7 @@ Data Structures • Feature Engineering • Model Evaluation
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/nandana-santhosh27profile/" target="blank">
+<a href="https://www.linkedin.com/in/nandanasanthosh27/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
